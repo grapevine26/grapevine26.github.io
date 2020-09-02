@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Python] docker에서 selenium 환경구성"
+title:  "[Python] docker에서 selenium 실행"
 subtitle:   "Running selenium in docker with python"
 categories: python
 tags: python selenium docker chrome webdriver scraping crawling
