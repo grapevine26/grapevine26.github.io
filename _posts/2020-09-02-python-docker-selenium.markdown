@@ -20,10 +20,10 @@ comments: true
 ---
 
 기본적으로 python과 docker가 준비되어있다고 가정하겠습니다.
-
-`docker pull selenium/standalone-chrome`
-`docker run --rm -d -p 4444:4444 --shm-size=2g selenium/standalone-chrome`
-
+```
+docker pull selenium/standalone-chrome
+docker run --rm -d -p 4444:4444 --shm-size=2g selenium/standalone-chrome
+```
 ## python에서 docker 연결
 ---
 
