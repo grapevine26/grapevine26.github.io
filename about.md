@@ -10,4 +10,3 @@ order: 4
 초보 개발자입니다.
 * python
 * django
-* :)
