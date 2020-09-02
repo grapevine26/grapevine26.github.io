@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: DL
-slug: dl
-category: dev
+title: Django
+slug: django
+category: python
 menu: false
 order: 2
 ---

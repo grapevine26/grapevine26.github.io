@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: Mysql
+slug: mysql
+category: mysql
 menu: false
 order: 1
 ---

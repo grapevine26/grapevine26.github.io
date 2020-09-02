@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: EnvOps
-slug: envOps
-category: envOps
+title: Python
+slug: python
+category: python
 menu: false
 order: 1
 ---
