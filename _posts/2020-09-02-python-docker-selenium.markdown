@@ -2,7 +2,7 @@
 layout: post
 title:  "[Python] docker에서 selenium 실행"
 subtitle:   "Running selenium in docker with python"
-categories: pythonDjango
+categories: pd
 tags: python selenium docker chrome webdriver scraping crawling
 comments: true
 ---
