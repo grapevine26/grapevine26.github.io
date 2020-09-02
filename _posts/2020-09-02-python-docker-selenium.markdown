@@ -30,10 +30,8 @@ docker run --rm -d -p 4444:4444 --shm-size=2g selenium/standalone-chrome
 ~~~python
 from selenium import webdriver
 from selenium.webdriver import DesiredCapabilities
-from selenium.webdriver.chrome.options import Options
 
-driver = webdriver.Remote('http://localhost:4444/wd/hub', DesiredCapabilities.CHROME, options=self.options)
+driver = webdriver.Remote('http://localhost:4444/wd/hub', DesiredCapabilities.CHROME)
 ~~~
-options는 없어도 됩니다.
 
 끝.
