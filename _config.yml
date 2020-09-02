@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               leo blog
+title:               Leo's blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -22,11 +22,11 @@ description:         >
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
+  name:              leo
   email:             yifi1004@gmail.com
 
 # Fallback image and color
-image:               /assets/img/main_left2.jpg
+image:               /assets/img/main_left.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
