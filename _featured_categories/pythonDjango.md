@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Python
-slug: python
+title: Python & Django
+slug: pd
 menu: true
 submenu: true
 order: 1

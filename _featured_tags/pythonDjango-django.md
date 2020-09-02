@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Django
 slug: django
-category: python
+category: pythonDjango
 menu: false
 order: 2
 ---
